@@ -1,9 +1,9 @@
 <?php 
 // DB credentials.
-define('DB_HOST','localhost');
-define('DB_USER','root');
-define('DB_PASS','');
-define('DB_NAME','carrental');
+define('DB_HOST','carrental-anassmamouni461-1058.a.aivencloud.com:18186');
+define('DB_USER','avnadmin');
+define('DB_PASS','AVNS_G4oYM0Kqv3klCJC3MqC');
+define('DB_NAME','defaultdb');
 // Establish database connection.
 try
 {
