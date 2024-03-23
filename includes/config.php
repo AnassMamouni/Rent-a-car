@@ -1,9 +1,9 @@
 <?php 
 // DB credentials.
-define('DB_HOST','carrental-anassmamouni461-1058.a.aivencloud.com:18186');
-define('DB_USER','avnadmin');
-define('DB_PASS','AVNS_G4oYM0Kqv3klCJC3MqC');
-define('DB_NAME','defaultdb');
+define('DB_HOST','sql.freedb.tech:3306');
+define('DB_USER','freedb_anass');
+define('DB_PASS','7dBcBgrY$NEU8?w');
+define('DB_NAME','freedb_location');
 // Establish database connection.
 try
 {
